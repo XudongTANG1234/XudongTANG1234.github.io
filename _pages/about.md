@@ -25,11 +25,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
-I am now a Msc Intelligent Construction student at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). Fortunately, I will be supervised by [Prof. JoonOh SEO](https://www.polyu.edu.hk/bre/people/academic-staff/dr-joonoh-seo/) of department of building and real estate, faculty of construction and environment.
+I am now a M.Sc. Intelligent Construction student at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). Fortunately, I will be supervised by [Prof. JoonOh SEO](https://www.polyu.edu.hk/bre/people/academic-staff/dr-joonoh-seo/) of the Department of Building and Real Estate, Faculty of Construction and Environment.
 
-My research interest includes construction technology. 
+My research interest includes Smart Construction Management, AI-Assisted Design and Construction, VR / AR Application in Construction, and Sensors, IoT, Construction Robotics
 
-You can find my CV here: [Xudong TANG's Curriculum Vitae](../assets/cv.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:sean.tang12312345@gmail.com).
+You can find my CV here: [Xudong TANG's Curriculum Vitae](../assets/cv.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:sean.tang1234@gmail.com).
 
 # 📖 Educations
 - *2024.09 - Now*, The Hong Kong Polytechnic University, M.Sc., Intelligent Construction
