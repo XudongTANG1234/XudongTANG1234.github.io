@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👤 About me
+
 <!--
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
@@ -46,6 +47,7 @@ You can find my CV here: [Xudong TANG's Curriculum Vitae](../assets/cv.pdf). If 
 - Sensors, IoT, Construction Robotics
 
 # 📝 Research Experience
+
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -63,6 +65,7 @@ You can find my CV here: [Xudong TANG's Curriculum Vitae](../assets/cv.pdf). If 
 -->
 
 - 🎓During My Master's Research Program
+
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Construction Safety</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -134,8 +137,9 @@ create a cohesive design.
 </div>
 
 # 💻 Work Experience
+
 <!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Shenzhen</div><img src='../images/corpo1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Shenzhen</div><img src='../images/corpo1.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [High School Branch, Kehan Off-campus Training Center](https://www.csgky.net)
@@ -157,7 +161,7 @@ Physics Teacher
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Changsha</div><img src='../images/corp2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Changsha</div><img src='../images/corp2.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Shanghai Top Display Optoelectronics Company**
@@ -168,7 +172,7 @@ Project Coordinator
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Changsha</div><img src='../images/corpo1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Changsha</div><img src='../images/corpo1.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Changsha Institute of Urban Planning**
