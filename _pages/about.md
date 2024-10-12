@@ -80,7 +80,7 @@ You can find my CV here: [Xudong TANG's Curriculum Vitae](../assets/cv.pdf). If 
 </div>
 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Construction Safety</div><img src='../images/paper1.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Construction Safety</div><img src='../images/paper1.png' alt="sym" width="65%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Exploring Eye-Tracking Measurement for Construction Hazard Warnings**
@@ -97,7 +97,7 @@ Awareness (SA)
 
 
 - 🎓During My B.Sc. Mathematics' Research Program
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mathematical Contest in Modeling</div><img src='../images/paper2.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mathematical Contest in Modeling</div><img src='../images/paper2.png' alt="sym" width="65%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Improve Sales Strategy of Electronical Vehicles by Analyzing the Relationship of Different Sales Elements**
@@ -118,12 +118,12 @@ the indicator that can increase the predicted purchase probability.
 </div>
 
 - 🎓During My B. Arch.'s Research Program
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Architectural Design</div><img src='../images/paper3.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Architectural Design</div><img src='../images/paper3.png' alt="sym" width="65%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Design: Changsha No.3 Workers’ Culture and Sports Complex**
 
-Design Work
+Design Team Work
 
 - Created initial design concepts that reflect the intended use of the space, incorporating both cultural and sports
 elements.
@@ -151,7 +151,7 @@ create a cohesive design.
 </div>
 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Changsha</div><img src='../images/corp3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Shenzhen</div><img src='../images/corp3.png' alt="sym" width="65%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **High School Branch, Kehan Off-campus Training Center**
@@ -161,7 +161,7 @@ Physics Teacher
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Changsha</div><img src='../images/corp2.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Shanghai</div><img src='../images/corp2.png' alt="sym" width="65%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Shanghai Top Display Optoelectronics Company**
@@ -172,7 +172,7 @@ Project Coordinator
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Changsha</div><img src='../images/corpo1.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Changsha</div><img src='../images/corpo1.png' alt="sym" width="65%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Changsha Institute of Urban Planning**
