@@ -49,8 +49,10 @@ You can find my CV here: [Xudong TANG's Curriculum Vitae](../assets/cv.pdf). If 
 # 📝 Research Experience
 
 <!--
+picture.............................................................
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+picture.............................................................
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
@@ -67,8 +69,10 @@ You can find my CV here: [Xudong TANG's Curriculum Vitae](../assets/cv.pdf). If 
 - 🎓During My Master's Research Program
 
 <!--
+picture.............................................................
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Construction Safety</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+picture.............................................................
 
 [Exploring Eye-Tracking Measurement for Construction Hazard Warnings](https://ieeexplore.ieee.org/document/10217826)
 
@@ -80,8 +84,6 @@ You can find my CV here: [Xudong TANG's Curriculum Vitae](../assets/cv.pdf). If 
 </div>
 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Construction Safety</div><img src='../images/paper1.png' alt="sym" width="65%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 **Monitoring construction workers’ situational awareness through eye tracking**
 
@@ -96,8 +98,6 @@ Awareness (SA)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Construction Safety</div><img src='../images/paper1.png' alt="sym" width="65%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 **3D Printing and Structural Performance Evaluation of a Bridge Model based on Topology Optimization Design**
 
@@ -110,8 +110,6 @@ Course Project | Supervisor: Prof. Yiwei WENG
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Construction Safety</div><img src='../images/paper1.png' alt="sym" width="65%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 **The Impacts of Wearing Back Exoskeletons on Ergonomic Risks in Construction Workers' Manual Handling Tasks**
 
@@ -123,8 +121,6 @@ Course Project | Supervisor: Prof. JoonOh SEO
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Construction Safety</div><img src='../images/paper1.png' alt="sym" width="65%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 **A Mini Review of Interaction Methods of Human-robot Collaboration for On-site Construction and Recommendations for its Applications in Hong Kong**
 
@@ -136,8 +132,6 @@ Course Project | Supervisor: Prof. Hsi-Hsien WEI
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Construction Safety</div><img src='../images/paper1.png' alt="sym" width="65%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 **A Framework of Consortium Blockchain and BIM Integrated System for Managing and Maintaining Building Pipeline Monitoring Data**
 
@@ -149,8 +143,6 @@ Course Project | Supervisor: Prof. JoonOh SEO
 
 
 - 🎓During My B.Sc. Mathematics' Research Program
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mathematical Contest in Modeling</div><img src='../images/paper2.png' alt="sym" width="65%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 **Identifying Optimization Strategies to Increase Electric Vehicle Sales Through Data Analysis Methods**
 
@@ -163,8 +155,6 @@ Course Project | Supervisor: Prof. JoonOh SEO
 </div>
 
 - 🎓During My B. Arch.'s Research Program
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Architectural Design</div><img src='../images/paper3.png' alt="sym" width="65%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 **Design: Changsha No.3 Workers’ Culture and Sports Complex**
 
@@ -190,8 +180,6 @@ Design Team Work
 </div>
 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Shenzhen</div><img src='../images/corp3.png' alt="sym" width="65%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 **High School Branch, Kehan Off-campus Training Center**
 
@@ -200,8 +188,6 @@ Physics Teacher
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Shanghai</div><img src='../images/corp2.png' alt="sym" width="65%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 **Shanghai Top Display Optoelectronics Company**
 
@@ -211,8 +197,6 @@ Project Coordinator
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Changsha</div><img src='../images/corpo1.png' alt="sym" width="65%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 **Changsha Institute of Urban Planning**
 
