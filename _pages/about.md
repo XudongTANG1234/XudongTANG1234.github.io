@@ -94,8 +94,7 @@ Awareness (SA)
 - Designed the Unity Scenes involving several types of construction hazards.
 - Obtained eye tracking data when participants detecting the hazard conditions.
 - Developed a Machine Learning based model to predict the accuracy of hazard identification.
-</div>
-</div>
+
 
 
 
@@ -106,8 +105,7 @@ Course Project | Supervisor: Prof. Yiwei WENG
 - Made the model by Rhino and Grasshopper.
 - Designed the key components including the beams and columns based on Topology Optimization.
 - Assessed the structural performance on software and 3D printing model tests.
-</div>
-</div>
+
 
 
 
@@ -117,8 +115,6 @@ Course Project | Supervisor: Prof. JoonOh SEO
 
 - Developed a computer vision model to assess the ergonomic risk of experiment participants.
 - Designed the experiments based on different work conditions, collect and process data to reach the conclusion.
-</div>
-</div>
 
 
 
@@ -128,8 +124,7 @@ Course Project | Supervisor: Prof. Hsi-Hsien WEI
 
 - Researched on different technology methods for smart construction, including sensors and IoT, camera and computer vision location and detection, and ai-based big data management.
 - Surveyed on the implementation of smart construction.
-</div>
-</div>
+
 
 
 
@@ -138,8 +133,7 @@ Course Project | Supervisor: Prof. Hsi-Hsien WEI
 Course Project | Supervisor: Prof. JoonOh SEO
 
 - Proposed a framework of consortium Blockchain and BIM integrated system for managing and maintaining building pipeline monitoring data, thereby extending the building lifecycle.
-</div>
-</div>
+
 
 
 - 🎓During My B.Sc. Mathematics' Research Program
@@ -151,8 +145,7 @@ Course Project | Supervisor: Prof. JoonOh SEO
 - Developed a fuzzy comprehensive evaluation model to analyze the customers' satisfaction with different brands.
 - Developed a regression model to predict the sales data.
 - Developed a dynamic programming model to identify factors that can increase the predicted purchase probability.
-</div>
-</div>
+
 
 - 🎓During My B. Arch.'s Research Program
 
@@ -162,8 +155,7 @@ Design Team Work
 
 - Developed concept design, architectural drawings and 3D models.
 - Drew the analysis drawings and presentation slides.
-</div>
-</div>
+
 
 # 💻 Work Experience
 
@@ -185,16 +177,14 @@ Design Team Work
 
 Physics Teacher
 - Apr. 202 – Aug. 2024
-</div>
-</div>
+
 
 
 **Shanghai Top Display Optoelectronics Company**
 
 Project Coordinator
 - Oct. 2022 – Jan. 2024
-</div>
-</div>
+
 
 
 
@@ -202,15 +192,14 @@ Project Coordinator
 
 Intern Architect
 - July. 2019 - Dec. 2019
-</div>
-</div>
+
 
 # 🏅 Honors and Awards
 - *2021.08* First Prize of “Huashu Cup” China Mathematical Contest in Modeling
 
 # 🧰 Skills
 - *Software and Tools:*
-- MS Office, AutoCAD, Revit, SketchUp, Photoshop, Unity, Rhino+Grasshopper
-- Mathematics and Coding: Python (Numpy, Pandas, Pytorch), MatLab, SPSS, Lingo
+- | MS Office, AutoCAD, Revit, SketchUp, Photoshop, Unity, Rhino+Grasshopper
+- | Python (Numpy, Pandas, Pytorch), MatLab, SPSS, Lingo
 - *Language:* Mandarin Chinese (Native), English (IELTS 6.5)
 
