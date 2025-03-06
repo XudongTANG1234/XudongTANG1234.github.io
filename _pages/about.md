@@ -83,15 +83,67 @@ You can find my CV here: [Xudong TANG's Curriculum Vitae](../assets/cv.pdf). If 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Construction Safety</div><img src='../images/paper1.png' alt="sym" width="65%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Exploring Eye-Tracking Measurement for Construction Hazard Warnings**
+**Monitoring construction workers’ situational awareness through eye tracking**
 
-Xudong TANG, Supervisor: Prof. JoonOh SEO
+Master Dissertation | Supervisor: Prof. JoonOh SEO
 
 - Picking up eye-tracking measurement metrics and collecting data to measure construction workers’ Situation
 Awareness (SA)
-- Developing a hazard identification system based on computer object recognition technology
-- Developing a warning system based on eye-tracking data and real-time hazard identification
-- Operating experiments and evaluate the effectiveness of the VR warning system
+- Designed the Unity Scenes involving several types of construction hazards.
+- Obtained eye tracking data when participants detecting the hazard conditions.
+- Developed a Machine Learning based model to predict the accuracy of hazard identification.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Construction Safety</div><img src='../images/paper1.png' alt="sym" width="65%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**3D Printing and Structural Performance Evaluation of a Bridge Model based on Topology Optimization Design**
+
+Course Project | Supervisor: Prof. Yiwei WENG
+
+- Made the model by Rhino and Grasshopper.
+- Designed the key components including the beams and columns based on Topology Optimization.
+- Assessed the structural performance on software and 3D printing model tests.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Construction Safety</div><img src='../images/paper1.png' alt="sym" width="65%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**The Impacts of Wearing Back Exoskeletons on Ergonomic Risks in Construction Workers' Manual Handling Tasks**
+
+Course Project | Supervisor: Prof. JoonOh SEO
+
+- Developed a computer vision model to assess the ergonomic risk of experiment participants.
+- Designed the experiments based on different work conditions, collect and process data to reach the conclusion.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Construction Safety</div><img src='../images/paper1.png' alt="sym" width="65%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**A Mini Review of Interaction Methods of Human-robot Collaboration for On-site Construction and Recommendations for its Applications in Hong Kong**
+
+Course Project | Supervisor: Prof. Hsi-Hsien WEI
+
+- Researched on different technology methods for smart construction, including sensors and IoT, camera and computer vision location and detection, and ai-based big data management.
+- Surveyed on the implementation of smart construction.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Construction Safety</div><img src='../images/paper1.png' alt="sym" width="65%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**A Framework of Consortium Blockchain and BIM Integrated System for Managing and Maintaining Building Pipeline Monitoring Data**
+
+Course Project | Supervisor: Prof. JoonOh SEO
+
+- Proposed a framework of consortium Blockchain and BIM integrated system for managing and maintaining building pipeline monitoring data, thereby extending the building lifecycle.
 </div>
 </div>
 
@@ -100,20 +152,13 @@ Awareness (SA)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mathematical Contest in Modeling</div><img src='../images/paper2.png' alt="sym" width="65%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Improve Sales Strategy of Electronical Vehicles by Analyzing the Relationship of Different Sales Elements**
+**Identifying Optimization Strategies to Increase Electric Vehicle Sales Through Data Analysis Methods**
 
-Xudong TANG, Supervisor: Prof. Haohua Wang
+2021 “Huashu Cup” Mathematical Contest in Modeling | Supervisor: Prof. Haohua Wang
 
-- Cleaned the data to remove duplicate values, and compared disposable annual income of families participating in
-research with their willingness of purchase.
-- Developed a fuzzy comprehensive evaluation model to analyze the target customers' satisfaction with different
-brands of EV.
-- Used correlation analysis method to calculate the variable correlation coefficient matrix, and drew the correlation
-heat map to pick out the most effective elements.
-- Developed a binary logistic regression model to analyze the influences of different indicators and evaluated the
-model by prediction category diagram
-- Calculated average satisfaction of each indicator and developed a dynamic programming model to obtain the value of
-the indicator that can increase the predicted purchase probability.
+- Developed a fuzzy comprehensive evaluation model to analyze the customers' satisfaction with different brands.
+- Developed a regression model to predict the sales data.
+- Developed a dynamic programming model to identify factors that can increase the predicted purchase probability.
 </div>
 </div>
 
@@ -125,14 +170,8 @@ the indicator that can increase the predicted purchase probability.
 
 Design Team Work
 
-- Created initial design concepts that reflect the intended use of the space, incorporating both cultural and sports
-elements.
-- Incorporated sustainable design principles, such as energy efficiency, water conservation, and the use of eco-friendly
-materials.
-- Developed detailed architectural drawings and 3D models that illustrate the layout, materials, and aesthetics.
-- Worked closely with engineers (structural, mechanical, electrical), landscape architects, and interior designers to
-create a cohesive design.
-- Coordinated with contractors and construction teams during design and building phases.
+- Developed concept design, architectural drawings and 3D models.
+- Drew the analysis drawings and presentation slides.
 </div>
 </div>
 
@@ -187,9 +226,7 @@ Intern Architect
 
 # 🧰 Skills
 - *Software and Tools:*
-- Academics: MS Office, ChatGPT, LaTeX, Zotero, Markdown, MS Project
-- Design: CAD, Revit, SketchUp, Photoshop, Unity, Midjourney, Runaway, Suno
+- MS Office, AutoCAD, Revit, SketchUp, Photoshop, Unity, Rhino+Grasshopper
 - Mathematics and Coding: Python (Numpy, Pandas, Pytorch), MatLab, SPSS, Lingo
-- *Instruments:* VR
 - *Language:* Mandarin Chinese (Native), English (IELTS 6.5)
 
