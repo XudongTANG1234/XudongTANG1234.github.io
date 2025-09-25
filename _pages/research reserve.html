@@ -1,0 +1,453 @@
+---
+layout: archive
+title: "Research Projects"
+permalink: /portfolio/
+author_profile: true
+---
+
+{% include base_path %}
+
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 2rem; margin-bottom: 2rem;">
+  <!-- Text content -->
+  <div style="max-width: 65%; text-align: justify;">
+    <p>
+      I have led and contributed to multiple interdisciplinary projects funded by agencies such as the National Science Foundation (NSF), Indiana Department of Transportation (INDOT), and the U.S. Department of Transportation (USDOT). This section highlights a selection of those projects.
+    </p>
+
+    <!-- Project List -->
+    <ul style="margin-top: 1em; padding-left: 1.2em; font-size: 0.95em;">
+      <li style="font-weight: bold; color: #333;">NSF:</li>
+      <ul style="margin-top: 0.3em; padding-left: 1.5em; font-size: 0.9em;">
+        <li>
+          <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2128970&HistoricalAwards=false" target="_blank">
+            #2128970 - Worker-AI Teaming to Enable ADHD Workforce Participation in the Construction Industry of Future
+          </a>
+        </li>
+      </ul>
+
+      <li style="font-weight: bold; color: #333; margin-top: 0.8em;">INDOT:</li>
+      <ul style="margin-top: 0.3em; padding-left: 1.5em; font-size: 0.9em;">
+        <li><a href="https://rip.trb.org/View/2253919" target="_blank">#SPR4835 - Integrated Smart Workzone</a></li>
+        <li><a href="https://docs.lib.purdue.edu/jtrp/1852" target="_blank">#SPR4629 - Implementation and Assessment of Highway Intrusion Technologies</a></li>
+        <li><a href="https://docs.lib.purdue.edu/jtrp/1798" target="_blank">#SPR4652 - Best Practices for Cleaning Tools and Paving Equipment</a></li>
+      </ul>
+
+      <li style="font-weight: bold; color: #333; margin-top: 0.8em;">USDOT:</li>
+      <ul style="margin-top: 0.3em; padding-left: 1.5em; font-size: 0.9em;">
+        <li>
+          <a href="https://engineering.purdue.edu/CCE/AboutUs/News/Construction_Features/interdisciplinary-research-team-receives-2m-grant-from-usdot-to-improve-workzone-safety-for-drivers-workers" target="_blank">
+            #Smart Grant - Smarter and Safer Workzone Through Multimodal Intrusion Detection
+          </a>
+        </li>
+      </ul>
+    </ul>
+  </div>
+
+  <!-- Logo Section -->
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 1rem;">
+    <img src="/images/nsf_logo.png" alt="NSF Logo" style="height: 80px;">
+    <div style="display: flex; justify-content: center; gap: 2rem;">
+      <img src="/images/indot_logo.png" alt="INDOT Logo" style="height: 70px;">
+      <img src="/images/usdot_logo.png" alt="USDOT Logo" style="height: 70px;">
+    </div>
+  </div>
+</div>
+
+<!-- Project Summary Section -->
+<p><em>----- Project Summary -----</em></p>
+<ul style="margin-top: 1em; padding-left: 1.2em; font-size: 0.95em;">
+  <li style="font-weight: bold; color: #333;">Digital Twin:</li>
+  <ul style="margin-top: 0.3em; padding-left: 1.5em; font-size: 0.9em;">
+    <li><a href="#workzoneDT" style="color: goldenrod; font-weight: bold; text-decoration: underline;">Work Zone Digital Twin</a></li>
+  </ul>
+  <ul style="margin-top: 0.3em; padding-left: 1.5em; font-size: 0.9em;">
+    <li><a href="#humanDT" style="color: goldenrod; font-weight: bold; text-decoration: underline;">Human Digital Twin</a></li>
+  </ul>
+  
+  <li style="font-weight: bold; color: #333; margin-top: 0.8em;">Human Factor / Physiology Sensing:</li>
+  <ul style="margin-top: 0.3em; padding-left: 1.5em; font-size: 0.9em;">
+    <li><a href="#humanDT" style="color: goldenrod; font-weight: bold; text-decoration: underline;">Human Digital Twin</a></li>
+  </ul>
+  <ul style="margin-top: 0.3em; padding-left: 1.5em; font-size: 0.9em;">
+    <li><a href="#trust" style="color: goldenrod; font-weight: bold; text-decoration: underline;">Human-Autonomy Trust</a></li>
+  </ul>
+  
+  <li style="font-weight: bold; color: #333; margin-top: 0.8em;">Safety:</li>
+  <ul style="margin-top: 0.3em; padding-left: 1.5em; font-size: 0.9em;">
+    <li><a href="#workzoneDT" style="color: goldenrod; font-weight: bold; text-decoration: underline;">Worker At-risk Behavior Detection</a></li>
+  </ul>
+  <ul style="margin-top: 0.3em; padding-left: 1.5em; font-size: 0.9em;">
+    <li><a href="#riskassessment" style="color: goldenrod; font-weight: bold; text-decoration: underline;">Work Zone Intrusion Risk Assessment</a></li>
+  </ul>
+  
+  <li style="font-weight: bold; color: #333; margin-top: 0.8em;">User Experience (UX):</li>
+  <ul style="margin-top: 0.3em; padding-left: 1.5em; font-size: 0.9em;">
+    <li><a href="#ARA" style="color: goldenrod; font-weight: bold; text-decoration: underline;">Asphalt Release Agents Usability Analysis</a></li>
+  </ul>
+  <ul style="margin-top: 0.3em; padding-left: 1.5em; font-size: 0.9em;">
+    <li><a href="#Intrusion" style="color: goldenrod; font-weight: bold; text-decoration: underline;">Intrusion Prevention Technologies Usability Analysis</a></li>
+  </ul>
+</ul>
+<p><em>------------------------------</em></p>
+
+<!-- Project 1: Work Zone Digital Twin -->
+<h2 id="workzoneDT">
+  <span style="background-color: #404040; color: white; padding: 0.2em 0.4em; display: inline-block;">
+    Work Zone Digital Twin for Detecting Worker Violating Geofence
+  </span>
+</h2>
+<div style="display: table; width: auto; margin-left: 0.5em; margin-bottom: 1em; font-size: 0.95em;">
+  <span style="display: table-cell; padding: 0 1em; border-left: 1px solid #ccc;">Digital Twin</span>
+  <span style="display: table-cell; padding: 0 1em; border-left: 1px solid #ccc;">Wearable Sensing</span>
+  <span style="display: table-cell; padding: 0 1em; border-left: 1px solid #ccc;">Safety</span>
+  <span style="display: table-cell; padding: 0 1em; border-left: 1px solid #ccc;">Unity</span>
+  <span style="display: table-cell; padding: 0 1em; border-left: 1px solid #ccc; border-right: 1px solid #ccc;">C#</span>
+</div>
+<div style="margin-bottom: 1.5em; margin-left: 0.5em; text-align: justify;">
+  <span style="color: goldenrod; font-style: italic; font-weight: bold;">Problem</span><br/>
+  <ul style="margin-top: 0.5em; margin-left: 1.0em; padding-left: 1.2em; font-style: normal; font-size: 1em;">
+    <li>
+      <strong>Work zone intrusions</strong> have been a safety-critical issue in transportation and construction
+    </li>
+    <li>
+      Besides vehicle-related factors, <strong>worker violating geofence</strong> must be considered a contributing factor of work zone intrusions
+    </li>
+  </ul>
+  <span style="color: goldenrod; font-style: italic; font-weight: bold;">Method</span><br/>
+  <ul style="margin-top: 0.5em; margin-left: 1.0em; padding-left: 1.2em; font-style: normal; font-size: 1em;">
+    <li>
+      Developed a <strong>work zone digital twin</strong> that aggregates data from <strong>channelizing devices</strong>, <strong>beacon</strong>, and <strong>GPS receivers</strong>
+    </li>
+    <li>
+      Conducted <strong>real-time detection</strong> of <strong>workers violating</strong> work zone geofence area
+    </li>
+    <li>
+      This solution was <strong>validated</strong> through a pilot test in a <strong>simulated road work zone</strong>
+    </li>
+  </ul>
+  <span style="color: goldenrod; font-style: italic; font-weight: bold;">Result</span><br/>
+  <ul style="margin-top: 0.5em; margin-left: 1.0em; padding-left: 1.2em; font-style: normal; font-size: 1em;">
+    <li>
+      The system achieved a detection <strong>accuracy</strong> of <strong>50 ± 11 cm</strong>
+    </li>
+    <li>
+      The system achieved a detection <strong>latency</strong> of <strong>0.15 ± 0.01 s</strong>
+    </li>
+  </ul>
+  <span style="color: goldenrod; font-style: italic; font-weight: bold;">Impact</span><br/>
+  <ul style="margin-top: 0.5em; margin-left: 1.0em; padding-left: 1.2em; font-style: normal; font-size: 1em;">
+    <li>
+      Enable an <strong>identification</strong> of <strong>workers' risk-taking behaviors</strong> on work zones
+    </li>
+    <li>
+      The <strong>digital twin</strong> building a <strong>foundation</strong> to combine <strong>vehicle-related monitoring</strong> and <strong>activate proactive alerts</strong> for workers and drivers to <strong>improve safety</strong>
+    </li>
+  </ul>
+</div>
+
+<!-- Video Embed -->
+<iframe width="400" height="200" src="https://www.youtube.com/embed/25KEV1g7e2M" frameborder="0" allowfullscreen></iframe>
+
+
+<h2 id="humanDT">
+  <span style="background-color: #404040; color: white; padding: 0.2em 0.4em; margin-top: 1.5em;display: inline-block;">
+    Human Digital Twin for Human-centered-AI Interaction
+  </span>
+</h2>
+<div style="display: table; width: auto; margin-left: 0.5em; margin-bottom: 1em; font-size: 0.95em;">
+  <span style="display: table-cell; padding: 0 1em; border-left: 1px solid #ccc;">Digital Twin</span>
+  <span style="display: table-cell; padding: 0 1em; border-left: 1px solid #ccc;">Wearable Sensing</span>
+  <span style="display: table-cell; padding: 0 1em; border-left: 1px solid #ccc;">Human-centered</span>
+  <span style="display: table-cell; padding: 0 1em; border-left: 1px solid #ccc;">ML/DL</span>
+  <span style="display: table-cell; padding: 0 1em; border-left: 1px solid #ccc;">Unity</span>
+  <span style="display: table-cell; padding: 0 1em; border-left: 1px solid #ccc; border-right: 1px solid #ccc;">C#</span>
+</div>
+<div style="margin-bottom: 1.5em; margin-left: 0.5em; text-align: justify;">
+  <span style="color: goldenrod; font-style: italic; font-weight: bold;">Problem</span><br/>
+  <ul style="margin-top: 0.5em; margin-left: 1.0em; padding-left: 1.2em; font-style: normal; font-size: 1em;">
+    <li>
+      The integration of <strong>new technologies</strong> into workplaces can introduce <strong>challenges</strong> for employees, particularly regarding <strong>safety</strong> and <strong>wellbeing</strong> 
+    </li>
+    <li>
+      These challenges underscore the <strong>need</strong> for <strong>real-time monitoring</strong> of human states and responsive <strong>feedback mechanisms</strong> to enhance workplace safety and wellbeing
+    </li>
+  </ul>
+  <span style="color: goldenrod; font-style: italic; font-weight: bold;">Method</span><br/>
+  <ul style="margin-top: 0.5em; margin-left: 1.0em; padding-left: 1.2em; font-style: normal; font-size: 1em;">
+    <li>
+      Proposed a <strong>human digital twin framework</strong> and <strong>developed its prototype</strong> that integrates <strong>bi-directional communication</strong> between the physical human and a virtual counterpart to <strong>capture human physiological states</strong> and <strong>deliver adaptive alerts</strong> during interaction with drones
+    </li>
+    <li>
+      Monitored human <strong>situational awareness of approaching drones</strong> using eye-tracking and delivered <strong>multimodal alerts</strong> when unawareness were detected
+    </li>
+    <li>
+      Predicted changes in <strong>human stress trajectories</strong> using deep learning models and <strong>coordinated drone behavior to maintain distance</strong> when elevated stress was anticipated
+    </li>
+  </ul>
+  <span style="color: goldenrod; font-style: italic; font-weight: bold;">Preliminary Result</span><br/>
+  <ul style="margin-top: 0.5em; margin-left: 1.0em; padding-left: 1.2em; font-style: normal; font-size: 1em;">
+    <li>
+      The human digital twin system <strong>increased the proportion</strong> of individuals who were aware of the drone’s approach from <strong>19%</strong> to <strong>68%</strong>
+    </li>
+  </ul>
+  <span style="color: goldenrod; font-style: italic; font-weight: bold;">Impact</span><br/>
+  <ul style="margin-top: 0.5em; margin-left: 1.0em; padding-left: 1.2em; font-style: normal; font-size: 1em;">
+    <li>
+      The framework lay the <strong>foundation</strong> for <strong>real-time analysis</strong> of human multi-dimensional states and <strong>timely feedback</strong> provided to improve their <strong>safety</strong> and <strong>wellbeing</strong> in any <strong>high-risk environments</strong>
+    </li>
+  </ul>
+</div>
+
+<!-- Video Embed -->
+<iframe width="400" height="200" src="https://www.youtube.com/embed/8iTVTh5dVxo" frameborder="0" allowfullscreen></iframe>
+
+
+
+<!-- Project 1: Work Zone Digital Twin -->
+<h2 id="riskassessment">
+  <span style="background-color: #404040; color: white; padding: 0.2em 0.4em; margin-top: 1.5em;display: inline-block;">
+    Work Zone Intrusion Risk Assessment through LLMs and DLs
+  </span>
+</h2>
+<div style="display: table; width: auto; margin-left: 0.5em; margin-bottom: 1em; font-size: 0.95em;">
+  <span style="display: table-cell; padding: 0 1em; border-left: 1px solid #ccc;">Risk Assessment</span>
+  <span style="display: table-cell; padding: 0 1em; border-left: 1px solid #ccc;">LLMs</span>
+  <span style="display: table-cell; padding: 0 1em; border-left: 1px solid #ccc;">Safety</span>
+  <span style="display: table-cell; padding: 0 1em; border-left: 1px solid #ccc;">TensorFlow</span>
+  <span style="display: table-cell; padding: 0 1em; border-left: 1px solid #ccc; border-right: 1px solid #ccc;">Python</span>
+</div>
+<div style="margin-bottom: 1.5em; margin-left: 0.5em; text-align: justify;">
+  <span style="color: goldenrod; font-style: italic; font-weight: bold;">Problem</span><br/>
+  <ul style="margin-top: 0.5em; margin-left: 1.0em; padding-left: 1.2em; font-style: normal; font-size: 1em;">
+    <li>
+      <strong>Work zone intrusions</strong> have been recognized as a multi-dimensional and complicated issue
+    </li>
+    <li>
+      There remains <strong>a lack of risk assessment</strong> regarding the cause of work zone intrusions due to limited available database
+    </li>
+  </ul>
+  <span style="color: goldenrod; font-style: italic; font-weight: bold;">Method</span><br/>
+  <ul style="margin-top: 0.5em; margin-left: 1.0em; padding-left: 1.2em; font-style: normal; font-size: 1em;">
+    <li>
+      Retrieved the <strong>crash reports</strong> on Automated Reporting Information Exchange System (ARIES) database by polices, including <strong>tabular</strong> (e.g., roads, weather, etc.), <strong>resultant</strong> (e.g., injuries and fatalities), and <strong>narrative</strong> (e.g., interview with drivers) data
+    </li>
+    <li>
+      Conducted work zone intrusion <strong>risk assessment</strong> by combining <strong>likelihood assessment</strong> using LLMs and <strong>severity assessment</strong> using DLs
+    </li>
+    <li>
+      A <strong>likelihood assessment</strong> was conducted using <strong>GPT-4o</strong> to identify <strong>features</strong> in the tabular data that<strong> most frequently aligned with drivers’ self-reported causes</strong>
+    </li>
+    <li>
+      A <strong>severity assessment</strong> was conducted by discerning key <strong>features</strong> in the tabular data that held <strong>greater importance</strong> in the developed <strong>DL model</strong>, which <strong>classified</strong> incidents as either <strong>high severity</strong> (involving injuries or fatalities) or <strong>low severity</strong> (non-injury, non-fatality cases)
+    </li>
+  </ul>
+  <span style="color: goldenrod; font-style: italic; font-weight: bold;">Result</span><br/>
+  <ul style="margin-top: 0.5em; margin-left: 1.0em; padding-left: 1.2em; font-style: normal; font-size: 1em;">
+    <li>
+      <strong>Aggressive driving</strong>, <strong>lane changes</strong>, and <strong>slippery surface conditions</strong> were reported by the drivers as <strong>top 3 contributing factors</strong> associated with a <strong>higher likelihood</strong> of work zone intrusions
+    </li>
+    <li>
+      <strong>Vehicles being towed</strong>, <strong>hitting and running away</strong>, and <strong>one-way-one-lane road</strong> exhibited <strong>top 3 importance</strong> to the <strong>severity</strong> of work zone intrusions
+    </li>
+  </ul>
+  <span style="color: goldenrod; font-style: italic; font-weight: bold;">Impact</span><br/>
+  <ul style="margin-top: 0.5em; margin-left: 1.0em; padding-left: 1.2em; font-style: normal; font-size: 1em;">
+    <li>
+      Help <strong>stakeholders better assess the risk</strong> of work zone conditions related to vehicle intrusions based on historical reports
+    </li>
+    <li>
+      Support <strong>proactive implementation of preventive strategies</strong> at critical moments to <strong>mitigate the risk</strong> of work zone intrusions
+    </li>
+  </ul>
+</div>
+
+<!-- Video Embed -->
+<iframe width="400" height="200" src="https://www.youtube.com/embed/s307_zxRnpk" frameborder="0" allowfullscreen></iframe>
+
+
+<!-- Project 2: Human-Autonomy Trust -->
+<h2 id="trust">
+  <span style="background-color: #404040; color: white; padding: 0.2em 0.4em; margin-top: 1.5em; display: inline-block;">
+    Physiology-Based Modeling and Prediction of Human-Autonomy Trust
+  </span>
+</h2>
+<div style="display: flex; flex-wrap: wrap; width: fit-content; margin-left: 0.5em; margin-bottom: 1em; font-size: 0.95em; border-left: 1px solid #ccc; border-right: 1px solid #ccc;">
+  <span style="padding: 0 1em; border-right: 1px solid #ccc;">Human Factor</span>
+  <span style="padding: 0 1em; border-right: 1px solid #ccc;">Physiology Sensing</span>
+  <span style="padding: 0 1em; border-right: 1px solid #ccc;">Human-Autonomy Interaction</span>
+  <span style="padding: 0 1em; border-right: 1px solid #ccc;">Deep Learning</span>
+  <span style="padding: 0 1em; border-right: 1px solid #ccc;">VR/AR/XR</span>
+  <span style="padding: 0 1em; border-right: 1px solid #ccc;">Unity</span>
+  <span style="padding: 0 1em; border-right: 1px solid #ccc;">C#</span>
+  <span style="padding: 0 1em; border-right: 1px solid #ccc;">Python</span>
+  <span style="padding: 0 1em;">TensorFlow</span>
+</div>
+
+<div style="margin-bottom: 1.5em; margin-left: 0.5em; text-align: justify;">
+  <span style="color: goldenrod; font-style: italic; font-weight: bold;">Problem</span><br/>
+  <ul style="margin-top: 0.5em; margin-left: 1.0em; padding-left: 1.2em; font-style: normal; font-size: 1em;">
+    <li>
+      Industries are <strong>changing</strong> via technological integration, raising a <strong>concern</strong> regarding whether <strong>workforce are ready for interacitng with technologies</strong>
+    </li>
+    <li>
+      While <strong>trust</strong> has been recognized as an essential element directly <strong>affecting users' acceptance</strong> of new technologies, there is <strong>a lack of knowledge</strong> of how <strong>workers build trust in autonomous technologies within construction</strong>
+    </li>
+  </ul>
+  <span style="color: goldenrod; font-style: italic; font-weight: bold;">Method</span><br/>
+  <ul style="margin-top: 0.5em; margin-left: 1.0em; padding-left: 1.2em; font-style: normal; font-size: 1em;">
+    <li>
+      Designed and developed a <strong>VR-based human-autonomy interactive bricklaying experiment</strong> in Unity, with participation from 105 recruited individuals
+    </li>
+    <li>
+      Deployed <strong>physiology sensing</strong> (i.e., brain activation, eye-tracking, electrodermal activity, and heart rate) to capture participants' naturalistic responses during interaction
+    </li>
+    <li>
+      Conducted <strong>statistical analyses</strong> (i.e., t-test, ANOVA, and correlation) using Python to understand the <strong>impact of failure identifaction, risk perception, and brain activation on human trust</strong>
+    </li>
+    <li>
+      Developed a <strong>CNN-LSTM hybrid model</strong> using TensorFlow, trained with multi-dimensional <strong>physiological data</strong>, to <strong>predict human trust dynamics</strong> (i.e., increasing or decreasing) during human-autonomy teaming
+    </li>
+  </ul>
+  <span style="color: goldenrod; font-style: italic; font-weight: bold;">Result</span><br/>
+  <ul style="margin-top: 0.5em; margin-left: 1.0em; padding-left: 1.2em; font-style: normal; font-size: 1em;">
+    <li>
+      The results support that <strong>trust</strong> <strong>dynamically fluctuated</strong> in response to the <strong>number of failures identified</strong> and the <strong>risk perception score</strong>, as reflected by <strong>prefrontal cortex activation</strong>
+    </li>
+    <li>
+      The developed hybrid model achieved an <strong>accuracy of 71.9%</strong>, <strong>precision of 74.4%</strong>, <strong>recall of 75.8%</strong>, and <strong>F1-score of 75.1%</strong> in predicting the trajectory of human trust change
+    </li>
+  </ul>
+  <span style="color: goldenrod; font-style: italic; font-weight: bold;">Impact</span><br/>
+  <ul style="margin-top: 0.5em; margin-left: 1.0em; padding-left: 1.2em; font-style: normal; font-size: 1em;">
+    <li>
+      Conclude that individuals who <strong>fail to identify system failures</strong> or <strong>misjudge risks</strong> tend to <strong>overtrust autonomous systems</strong> and <strong>misuse them</strong>.
+    </li>
+    <li>
+      Demonstrate the effectiveness of using <strong>prefrontal cortex activation</strong> as an <strong>objective measure of human trust</strong> in autonomous systems.
+    </li>
+    <li>
+      Enable the development of <strong>trust-aware autonomous systems</strong> that can adapt to workers’ cognitive states in real time, enhancing <strong>safety</strong>, <strong>efficiency</strong>, and <strong>technology acceptance</strong> in industrial environments.
+    </li>
+  </ul>
+</div>
+
+<!-- Video Embed -->
+<iframe width="400" height="200" src="https://www.youtube.com/embed/olpvprIima4" frameborder="0" allowfullscreen></iframe>
+
+
+
+<h2 id="ARA">
+  <span style="background-color: #404040; color: white; padding: 0.2em 0.4em; margin-top: 1.5em; display: inline-block; text-align:justify;">
+    User-Centered Dashboard for Selecting Asphalt Release Agents and Cleaners
+  </span>
+</h2>
+<div style="display: flex; flex-wrap: wrap; width: fit-content; margin-left: 0.5em; margin-bottom: 1em; font-size: 0.95em; border-left: 1px solid #ccc; border-right: 1px solid #ccc;">
+  <span style="padding: 0 1em; border-right: 1px solid #ccc;">User Experience</span>
+  <span style="padding: 0 1em; border-right: 1px solid #ccc;">Qualitative Analyses</span>
+  <span style="padding: 0 1em; border-right: 1px solid #ccc;">Visualization</span>
+  <span style="padding: 0 1em; border-right: 1px solid #ccc;">Excel VBA</span>
+</div>
+
+<div style="margin-bottom: 1.5em; margin-left: 0.5em; text-align: justify;">
+  <span style="color: goldenrod; font-style: italic; font-weight: bold;">Problem</span><br/>
+  <ul style="margin-top: 0.5em; margin-left: 1.0em; padding-left: 1.2em; font-style: normal; font-size: 1em;">
+    <li>
+      Field personnel and contractors face <strong>challenges in selecting suitable Asphalt Release Agents (ARAs) and Asphalt Cleaners (ACs)</strong> due to <strong>limited comparative information</strong> and <strong>diverse site-specific requirements</strong>.
+    </li>
+    <li>
+      The <strong>lack of a structured, user-friendly platform</strong> for evaluating product performance.
+    </li>
+  </ul>
+
+  <span style="color: goldenrod; font-style: italic; font-weight: bold;">Method</span><br/>
+  <ul style="margin-top: 0.5em; margin-left: 1.0em; padding-left: 1.2em; font-style: normal; font-size: 1em;">
+    <li>
+      Conducted <strong>semi-structured interviews and user questionnaires</strong> to capture <strong>practical needs, preferences, and feedback</strong> from field personnel and decision-makers.
+    </li>
+    <li>
+      Developed an <strong>interactive dashboard</strong> that enables side-by-side comparison of ARAs and ACs based on <strong>product properties, cost, safety, and application criteria</strong>.
+    </li>
+  </ul>
+
+  <span style="color: goldenrod; font-style: italic; font-weight: bold;">Result</span><br/>
+  <ul style="margin-top: 0.5em; margin-left: 1.0em; padding-left: 1.2em; font-style: normal; font-size: 1em;">
+    <li>
+      The dashboard successfully <strong>streamlined decision-making</strong> by allowing users to compare ARA and AC options based on their specific project needs and constraints.
+    </li>
+    <li>
+      Feedback from industry professionals confirmed the <strong>usefulness, clarity, and applicability</strong> of the platform in real-world maintenance and operations.
+    </li>
+  </ul>
+
+  <span style="color: goldenrod; font-style: italic; font-weight: bold;">Impact</span><br/>
+  <ul style="margin-top: 0.5em; margin-left: 1.0em; padding-left: 1.2em; font-style: normal; font-size: 1em;">
+    <li>
+      Provided a <strong>user-friendly digital tool</strong> that enhances <strong>efficiency, safety, and informed product use</strong> in asphalt operations.
+    </li>
+    <li>
+      Supported data-driven and experience-informed decisions that can <strong>enhance product selection accuracy and promote safer field practices</strong>.
+    </li>
+  </ul>
+</div>
+
+<!-- Video Embed -->
+<iframe width="400" height="200" src="https://www.youtube.com/embed/-zUv9xatrtQ" frameborder="0" allowfullscreen></iframe>
+
+
+
+<h2 id="Intrusion">
+  <span style="background-color: #404040; color: white; padding: 0.2em 0.4em; margin-top: 1.5em; display: inline-block; text-align:justify;">
+    Intrusion Prevention Technologies Usability Analysis through Driving Experiments
+  </span>
+</h2>
+<div style="display: flex; flex-wrap: wrap; width: fit-content; margin-left: 0.5em; margin-bottom: 1em; font-size: 0.95em; border-left: 1px solid #ccc; border-right: 1px solid #ccc;">
+  <span style="padding: 0 1em; border-right: 1px solid #ccc;">User Experience</span>
+  <span style="padding: 0 1em; border-right: 1px solid #ccc;">Experimentation</span>
+  <span style="padding: 0 1em; border-right: 1px solid #ccc;">Physiological Sensing</span>
+  <span style="padding: 0 1em; border-right: 1px solid #ccc;">Excel VBA</span>
+</div>
+
+<div style="margin-bottom: 1.5em; margin-left: 0.5em; text-align: justify;">
+  <span style="color: goldenrod; font-style: italic; font-weight: bold;">Problem</span><br/>
+  <ul style="margin-top: 0.5em; margin-left: 1.0em; padding-left: 1.2em; font-style: normal; font-size: 1em;">
+    <li>
+      There is <strong>a lack of empirical evaluation</strong> of commercially available intrusion prevention technologies from a <strong>driver-centered</strong> perspective.
+    </li>
+  </ul>
+
+  <span style="color: goldenrod; font-style: italic; font-weight: bold;">Method</span><br/>
+  <ul style="margin-top: 0.5em; margin-left: 1.0em; padding-left: 1.2em; font-style: normal; font-size: 1em;">
+    <li>
+      Conducted <strong>driving experiments</strong> to <strong>quantitatively</strong> assess 12 drivers’ cognitive responses to intrusion prevention technologies (SonoBlaster, WAS, AWARE, and Intellicone) and <strong>qualitatively</strong> evaluate perceived usability through post-drive interviews.
+    </li>
+    <li>
+      Evaluated technology effectiveness using multiple <strong>human-centered metrics</strong>, including <strong>attention</strong> (iMotions eye-tracking glasses), <strong>brain activation</strong> (fNIRS), <strong>stress levels</strong> (Empatica), <strong>reaction time</strong>, and <strong>stoppage distance</strong>.
+    </li>
+    <li>
+      Developed an interactive <strong>dashboard</strong> that integrates drivers’ quantitative and qualitative feedback to <strong>support future decision-making</strong>  based on <strong>user-centered</strong> considerations.
+    </li>
+  </ul>
+
+  <span style="color: goldenrod; font-style: italic; font-weight: bold;">Result</span><br/>
+  <ul style="margin-top: 0.5em; margin-left: 1.0em; padding-left: 1.2em; font-style: normal; font-size: 1em;">
+    <li>
+      Among the four technologies, WAS and Intellicone demonstrated stronger driver responsiveness and shorter average reaction times.
+    </li>
+    <li>
+      Drivers rated Intellicone as the most usable and least stressful system, while eye-tracking and fNIRS data supported higher situational awareness under WAS deployment.
+    </li>
+  </ul>
+
+  <span style="color: goldenrod; font-style: italic; font-weight: bold;">Impact</span><br/>
+  <ul style="margin-top: 0.5em; margin-left: 1.0em; padding-left: 1.2em; font-style: normal; font-size: 1em;">
+    <li>
+      Provided DOTs with <strong>driver-centered insights to guide selection</strong> and deployment of work zone intrusion prevention technologies.
+    </li>
+    <li>
+      Delivered a customizable <strong>decision-support</strong> tool that enables contractors and safety managers to compare technologies based on cost, effectiveness, and human factors.
+    </li>
+  </ul>
+</div>
+
+<!-- Video Embed -->
+<iframe width="400" height="200" src="https://www.youtube.com/embed/hB7GUvJ4kp8" frameborder="0" allowfullscreen></iframe>
